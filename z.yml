@@ -1,0 +1,15 @@
+---
+description: Add support for Xplained Pro SamC21N
+fullname: board.zerynth.xplained_c21n
+info:
+    board: SAM C21N Xplained Dev Board
+    chip_manufacturer: Microchip/Atmel
+    device: samc21n
+    family_type: ARM Cortex M0+
+keywords:
+- samc21n
+- board
+- atmel
+- microchip
+title: Xplained Pro SamC21N Support Package
+...
