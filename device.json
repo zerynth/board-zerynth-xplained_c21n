@@ -17,7 +17,7 @@
     "architecture": "cortex-m0plus",
     "gccopts": {
         "arch": [
-            "cortex-m0plus",
+            "-mcpu=cortex-m0plus",
             "-mthumb"
         ],
         "cflags": [
